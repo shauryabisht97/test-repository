@@ -1,3 +1,3 @@
-# test-repository
+# My very first repo
 
-This is a new edit from my local computer. 
+Learning my way through GitHub
